@@ -38,5 +38,5 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 
 <h2>Attacks from all over the worl coming in; Custom logs being output with geodata before and after 24 hours</h2>
 
-![2023-09-19 13-22-25](https://github.com/TheSelected1/Failed-RDP-to-IP-Geolocation-Information/assets/130491577/61b78e27-b0ff-4b9b-9f9c-8b241108983c) height="100%" width="100%"
+![2023-09-19 13-22-25](https://github.com/TheSelected1/Failed-RDP-to-IP-Geolocation-Information/assets/130491577/61b78e27-b0ff-4b9b-9f9c-8b241108983c)
 
